@@ -1,0 +1,13 @@
+V. Create a first page simple view
+2. Create a first page job
+    2.1 Create a links table presentation
+V. Create a second page simple page
+4. Create a second page job
+5. Create a well front
+
+MUST HAVE:
+1. move words array parsing to spetial process after getting results of import
+
+decorations:
+1. Front colors
+2. Make 'enter' pressing on inputs as a start of js-script
